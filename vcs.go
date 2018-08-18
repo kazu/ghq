@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/motemen/ghq/utils"
+	"github.com/kazu/ghq/utils"
 )
 
 // A VCSBackend represents a VCS backend.

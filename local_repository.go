@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/mitchellh/go-homedir"
-	"github.com/motemen/ghq/utils"
+	"github.com/kazu/ghq/utils"
 )
 
 type LocalRepository struct {

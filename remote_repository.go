@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/motemen/ghq/utils"
+	"github.com/kazu/ghq/utils"
 )
 
 // A RemoteRepository represents a remote repository.
