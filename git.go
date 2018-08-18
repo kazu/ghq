@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/motemen/ghq/utils"
+	"github.com/kazu/ghq/utils"
 )
 
 // GitConfigSingle fetches single git-config variable.

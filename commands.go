@@ -12,7 +12,7 @@ import (
 	"syscall"
 
 	"github.com/urfave/cli"
-	"github.com/motemen/ghq/utils"
+	"github.com/kazu/ghq/utils"
 )
 
 var Commands = []cli.Command{
